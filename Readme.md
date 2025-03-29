@@ -1,4 +1,4 @@
-![Logo do Projeto](/assets/logo.png)
+![Logo do Projeto](/assets/logo.jpeg)
 
 # 🏛️ IntegraTur: Solução para Gestão Integrada das Secretarias de Turismo e Cultura de Recife  
 
@@ -7,16 +7,16 @@
 ---
 
 ## 👥 Equipe  
-| Nome | Hobby | Contato |  
+| Nome | Funções | Hobby | Contato | 
 |------|--------|---------|  
-| *André Ferraz* | *Surfar, ir a academia, jogar basquete e acompanhar outros esportes.* | *Email/LinkedIn* |  
-| *Gustavo Rodrigues* | *Escutar música, ir a academia e andar de bicicleta.* | *Email/LinkedIn* |  
-| *Jorge Tadeu* | *Ir a academia e jogar vôlei.* | *Email/LinkedIn* |
-| *Luiz Felipe3* | *Jogar videogame, cozinhar e jogar vôlei.* | *Email/LinkedIn* |  
-| *Maria Eduarda* | *Escutar música, jogar videogame, pintar e desenhar.* | *Email/LinkedIn* |  
-| *Maria Julia* | *Desenhar tanto no papel quanto no digital, apesar de ainda estar aprendendo o digital, ler e assistir sitcom.* | *Email/LinkedIn* |  
-| *Mateus Jose* | *Jogar videogame, praticar natação e correr e acompanhar esportes.* | *Email/LinkedIn* |  
-| *Matheus Melquiades* | *Jogar videogame, ler quadrinhos e ir ao cinema.* | *Email/LinkedIn* |  
+| *André Ferraz* |**| *Surfar, ir a academia, jogar basquete e acompanhar outros esportes.* | ** |  
+| *Gustavo Rodrigues* |**| *Escutar música, ir a academia e andar de bicicleta.* | ** |  
+| *Jorge Tadeu* |**|*Ir a academia e jogar vôlei.* | ** |
+| *Luiz Felipe3* |**|*Jogar videogame, cozinhar e jogar vôlei.* | ** |  
+| *Maria Eduarda* |**|*Escutar música, jogar videogame, pintar e desenhar.* | ** |  
+| *Maria Julia* |**|*Desenhar tanto no papel quanto no digital, apesar de ainda estar aprendendo o digital, ler e assistir sitcom.* | ** |  
+| *Mateus Jose* |** |*Jogar videogame, praticar natação e correr e acompanhar esportes.* | ** |  
+| *Matheus Melquiades* | *Jogar videogame, ler quadrinhos e ir ao cinema.* | ** |  
   
 ---
 
