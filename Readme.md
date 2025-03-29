@@ -1,4 +1,4 @@
-![Logo do Projeto](/assets/logo.jpeg)
+![Logo do Projeto](./assets/Logo.jpeg)
 
 # 🏛️ IntegraTur: Solução para Gestão Integrada das Secretarias de Turismo e Cultura de Recife  
 
@@ -7,16 +7,16 @@
 ---
 
 ## 👥 Equipe  
-| Nome | Funções | Hobby | Contato | 
-|------|--------|---------|  
-| *André Ferraz* |**| *Surfar, ir a academia, jogar basquete e acompanhar outros esportes.* | ** |  
-| *Gustavo Rodrigues* |**| *Escutar música, ir a academia e andar de bicicleta.* | ** |  
-| *Jorge Tadeu* |**|*Ir a academia e jogar vôlei.* | ** |
-| *Luiz Felipe3* |**|*Jogar videogame, cozinhar e jogar vôlei.* | ** |  
-| *Maria Eduarda* |**|*Escutar música, jogar videogame, pintar e desenhar.* | ** |  
-| *Maria Julia* |**|*Desenhar tanto no papel quanto no digital, apesar de ainda estar aprendendo o digital, ler e assistir sitcom.* | ** |  
-| *Mateus Jose* |** |*Jogar videogame, praticar natação e correr e acompanhar esportes.* | ** |  
-| *Matheus Melquiades* | *Jogar videogame, ler quadrinhos e ir ao cinema.* | ** |  
+| Nome             | Funções | Hobby                                                                 | Contato |
+|------------------|---------|-----------------------------------------------------------------------|---------|
+| André Ferraz     | **      | Surfar, ir à academia, jogar basquete e acompanhar outros esportes.  | **      |
+| Gustavo Rodrigues| **      | Escutar música, ir à academia e andar de bicicleta.                  | **      |
+| Jorge Tadeu      | **      | Ir à academia e jogar vôlei.                                         | **      |
+| Luiz Felipe      | **      | Jogar videogame, cozinhar e jogar vôlei.                             | **      |
+| Maria Eduarda    | **      | Escutar música, jogar videogame, pintar e desenhar.                  | **      |
+| Maria Julia      | **      | Desenhar (papel e digital, ainda aprendendo), ler e assistir sitcom. | **      |
+| Mateus Jose      | **      | Jogar videogame, praticar natação, correr e acompanhar esportes.     | **      |
+| Matheus Melquiades | **    | Jogar videogame, ler quadrinhos e ir ao cinema.                      | **      |
   
 ---
 
