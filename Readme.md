@@ -9,14 +9,14 @@
 ## 👥 Equipe  
 | Nome             | Funções | Hobby                                                                 | Contato |
 |------------------|---------|-----------------------------------------------------------------------|---------|
-| André Ferraz     | **      | Surfar, ir à academia, jogar basquete e acompanhar outros esportes.  | **      |
-| Gustavo Rodrigues| **      | Escutar música, ir à academia e andar de bicicleta.                  | **      |
-| Jorge Tadeu      | **      | Ir à academia e jogar vôlei.                                         | **      |
-| Luiz Felipe      | **      | Jogar videogame, cozinhar e jogar vôlei.                             | **      |
-| Maria Eduarda    | **      | Escutar música, jogar videogame, pintar e desenhar.                  | **      |
-| Maria Julia      | **      | Desenhar (papel e digital, ainda aprendendo), ler e assistir sitcom. | **      |
-| Mateus Jose      | **      | Jogar videogame, praticar natação, correr e acompanhar esportes.     | **      |
-| Matheus Melquiades | **    | Jogar videogame, ler quadrinhos e ir ao cinema.                      | **      |
+| André Ferraz     | Scrum Master| Surfar, ir à academia, jogar basquete e acompanhar outros esportes.  | **      |
+| Luiz Felipe      |Project Owner| Jogar videogame, cozinhar e jogar vôlei.                             | **      |
+| Gustavo Rodrigues|Quality Assurance (QA)| Escutar música, ir à academia e andar de bicicleta.                  | **      |
+| Jorge Tadeu      |Desenvolverdor Front End| Ir à academia e jogar vôlei.                                         | **      |
+| Maria Eduarda    |Desenvolverdor Front End| Escutar música, jogar videogame, pintar e desenhar.                  | **      |
+| Maria Julia      |Desenvolverdor Front End| Desenhar (papel e digital, ainda aprendendo), ler e assistir sitcom. | **      |
+| Mateus Jose      |Desenvolverdor Back End| Jogar videogame, praticar natação, correr e acompanhar esportes.     | **      |
+| Matheus Melquiades |Desenvolverdor Front End| Jogar videogame, ler quadrinhos e ir ao cinema.                      | **      |
   
 ---
 
