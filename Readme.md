@@ -350,7 +350,7 @@ O **IntegraTur** é um sistema que:
 ## 📋 Backlog do Produto - Sprint 27-30 Março
 
 ### 🎯 Objetivo da Sprint
-Produzir histórias, storyboards e sketches para atender os 15 entregáveis do "Entrego-O"
+Produzir histórias, storyboards e sketches para atender os 15 entregáveis do "Entrego-1"
 
 ---
 
@@ -374,13 +374,6 @@ Produzir histórias, storyboards e sketches para atender os 15 entregáveis do "
 | Storyboard  | Calendário de Eventos               | ✅         |
 | Storyboard  | Mapa de Eventos                     | ✅         |
 
----
-
-### 📊 Resumo de Progresso
-```mermaid
-pie title Distribuição por Tipo
-    "Histórias" : 10
-    "Storyboards" : 5
 ![Backlog jiro](./assets/BACKLOG%20sprint%201%20.png)
 
 --- 
