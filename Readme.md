@@ -218,4 +218,135 @@ O **IntegraTur** é um sistema que:
 **Feedback do Sistema:**  
 - Mensagem de sucesso: *"Evento Salvo Com Sucesso!"*.  
 
+## 🔍 Storyboard - Pesquisa de Eventos na Home
+
+### **Tela 1: Filtros Iniciais (Pesquisa na Home 1)**
+![Tela 1 - Filtros e Listagem](./assets/sb%20pesquisa%20na%20home/pesquisa%20na%20home%201.jpeg)  
+**Fluxo:**  
+**Filtros por categoria**: Checkboxes para "Secretaria de Cultura" e "Secretaria de Turismo" (ainda não selecionados).  
+
+---
+
+### **Tela 2: Filtro Aplicado (Pesquisa na Home 2)**  
+![Tela 2 - Evento Filtrado](./assets/sb%20pesquisa%20na%20home/pesquisa%20na%20home%202.jpeg)  
+**Ação do Usuário:**  
+- Seleciona filtro **"Secretaria de Cultura"**.  
+**Resultado:**  
+- Exibe apenas **"Oficina de Maracatu"** (15/07/2025) com detalhes completos:  
+  - Descrição do evento.  
+  - Responsável: "Maria Dolores".  
+  - Botão "Saiba Mais" ativo.  
+
+---
+
+### **Tela 3: Busca sem Resultados (Pesquisa na Home 3)**  
+![Tela 3 - Nenhum Resultado](./assets/sb%20pesquisa%20na%20home/pesquisa%20na%20home%203.jpeg)  
+**Ação do Usuário:**  
+- Busca por **"Festival Gastronômico"** (sem selecionar filtros).  
+**Feedback do Sistema:**  
+- Mensagem clara: *"Nenhum resultado encontrado para 'Festival Gastronômico'"*.  
+
+## 📅 Storyboard - Calendário de Eventos
+
+### **Tela 1: Visão Mensal (Calendario 1.jpeg)**
+![Tela 1 - Visão do Mês](./assets/sb%20calendario%20de%20eventos/Calendario%201.jpeg)  
+**Fluxo Principal:**  
+**Menu de Filtros**:  
+   - Opções por categoria (Todos, Localização, CEP).  
+   - Filtro por tipo de evento e mês (Abril 2025 selecionado).  
+**Grade do Calendário**:  
+   - Visualização semanal com dias 1 a 26 de abril.  
+   - Destaque para dias com eventos (ex.: 23/04 - Oficina do Bolo).  
+
+
+---
+
+### **Tela 2: Detalhes do Evento (Calendario 2.jpeg)**  
+![Tela 2 - Detalhes](./assets/sb%20calendario%20de%20eventos/Calendario%202.jpeg)  
+**Ação do Usuário:**  
+- Clica no evento "Oficina do Bolo" (23/04/2025).  
+**Informações Exibidas:**  
+- **Dados Básicos**:  
+  - Data/hora: 23 de Abril, 09:00-12:00.  
+  - Local: Centro de Convenções (endereço completo). 
+
+## 🔐 Storyboard - Fluxo de Login e Cadastro
+
+### **Tela 1: Página de Login (login 1.png)**
+![Tela 1 - Login](./assets/Lofinca_cadastro/login%201.png)  
+**Elementos Chave:**  
+- Campos para **e-mail institucional** e **senha**.  
+- Opções:  
+  - "Salvar login" (lembrar usuário).  
+  - "Esqueci a senha".  
+- Botões principais:  
+  - **"Entrar"** (submissão).  
+  - **"Registre-se"** (redireciona para cadastro).  
+
+---
+
+### **Tela 2: Login Bem-Sucedido (login 2.png)**  
+![Tela 2 - Sucesso](./assets/Lofinca_cadastro/login%202.png)  
+**Feedback do Sistema:**  
+- Mensagem: *"Login efetuado com sucesso!"*.  
+- Exibe **nome do usuário** e **e-mail institucional**.  
+- Botão **"Continuar"** para acesso à dashboard.  
+
+---
+
+### **Tela 3: Login Falhou (login 3.png)**  
+![Tela 3 - Erro](./assets/Lofinca_cadastro/login%203.png)  
+**Tratamento de Erro:**  
+- Mensagem clara: *"Falha no Login: Usuário ou senha incorretos"*.  
+- Opções:  
+  - **"Tentar novamente"** (volta à Tela 1).  
+  - **"Criar uma conta"** (redireciona para Tela 4).  
+
+---
+
+### **Tela 4: Cadastro de Usuário (login 4.png)**  
+![Tela 4 - Cadastro](./assets/sb%20mapa/mapa%201.png)  
+**Formulário de Registro:**  
+- Campos obrigatórios:  
+  - Nome completo, CPF, e-mail, senha (com validação em tempo real).  
+  - Data de nascimento e gênero (opcional).  
+- Botões:  
+  - **"Entrar"** (submissão).  
+  - **"Fazer login"** (para usuários já cadastrados).  
+
+## 🗺️ Storyboard - Fluxo do Mapa de Eventos
+
+### **1. Transição da Home para o Mapa** *(Home → Mapa)*  
+![Home do Sistema](./assets/sb%20mapa/mapa%201.png) *(Imagem existente reutilizada)*  
+**Ação do Usuário:**  
+- Clica em **"Mapa de eventos"** no menu lateral.  
+**Sistema:**  
+- Redireciona para a tela de mapa com pins de eventos.  
+
+---
+
+### **2. Visualização do Mapa** *(Mapa base com eventos)*  
+![Mapa com Pins](./assets/sb%20mapa/mapa%202.png) *(Imagem adaptada como exemplo)*  
+**Funcionalidades:**  
+- Pins coloridos por secretaria (Cultura: 🟠, Turismo: 🔵).  
+- Barra de busca superior com placeholder: *"Buscar por CEP ou endereço..."*.  
+
+---
+
+### **3. Detalhes do Evento** *(Modal ao clicar no pin)*  
+![Detalhes do Evento](./assets/sb%20mapa/mapa%203.png) *(Imagem reutilizada)*  
+**Dados exibidos:**  
+- Nome, data, localização física.  
+- Botões: *"Editar"* (para gestores) e *"Compartilhar"*.  
+
+---
+
+### **4. Busca por CEP** *(Filtro geográfico)*  
+![Busca por CEP](./assets/sb%20mapa/mapa%204.png) *(Imagem adaptada)*  
+**Fluxo:**  
+- Usuário digita CEP (ex.: `50000-000`).  
+- Mapa ajusta a visualização para a região.  
+- Exibe apenas eventos no raio de 5km.  
+
+
 --- 
