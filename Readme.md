@@ -200,9 +200,8 @@ O **IntegraTur** é um sistema que:
 ### **Tela 1: Formulário Base**
 ![Tela 1 - Estrutura Inicial](./assets/sb%20cadastrar%20novo%20evento/WhatsApp%20Image%202025-03-31%20at%2003.34.08.jpeg)  
 **Fluxo:**  
-1. Preenchimento das **Informações Básicas** (Título, Responsável, Local, Descrição).  
-2. Seção de **Programação** com opção "+ Adicional Horário".  
-3. **Recursos** e **Requisitos** com checkboxes para autorizações.  
+- Preenchimento das **Informações Básicas** (Título, Responsável, Local, Descrição).  
+
 
 ---
 
@@ -210,8 +209,7 @@ O **IntegraTur** é um sistema que:
 ![Tela 2 - Dados Parciais](./assets/sb%20cadastrar%20novo%20evento/WhatsApp%20Image%202025-03-31%20at%2003.34.08%20(1).jpeg)  
 **Destaques:**  
 - Exemplo de evento: "Oficina do Bob" (data 23/03/2025).  
-- Checkboxes para licenças (**Licença Biomédica**, **Autorização Sonora**).  
-- Seção de **Marketing** e **Segurança** ainda não preenchidas.  
+
 
 ---
 
@@ -219,6 +217,5 @@ O **IntegraTur** é um sistema que:
 ![Tela 3 - Evento Salvo](./assets/sb%20cadastrar%20novo%20evento/WhatsApp%20Image%202025-03-31%20at%2003.34.09.jpeg)  
 **Feedback do Sistema:**  
 - Mensagem de sucesso: *"Evento Salvo Com Sucesso!"*.  
-- Dados persistidos: Título ("Oficina do Belo"), Data, Descrição.  
-- **Checklists** visíveis para acompanhamento pós-cadastro.  
+
 --- 
