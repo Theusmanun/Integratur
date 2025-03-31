@@ -227,7 +227,7 @@ O **IntegraTur** é um sistema que:
 
 ---
 
-### **Tela 2: Filtro Aplicado **  
+### **Tela 2: Barra de pesquisa **  
 ![Tela 2 - Evento Filtrado](./assets/sb%20pesquisa%20na%20home/pesquisa%20na%20home%202.jpeg)  
 **Ação do Usuário:**  
 - Usa barra de pesquisa **"Oficina de Maracatu"**.  
