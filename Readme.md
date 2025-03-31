@@ -347,5 +347,40 @@ O **IntegraTur** é um sistema que:
 - Mapa ajusta a visualização para a região.  
 - Exibe apenas eventos no raio de 5km.  
 
+## 📋 Backlog do Produto - Sprint 27-30 Março
+
+### 🎯 Objetivo da Sprint
+Produzir histórias, storyboards e sketches para atender os 15 entregáveis do "Entrego-O"
+
+---
+
+### 📝 Itens do Backlog
+
+| Tipo        | Item                                | Status     |
+|-------------|-------------------------------------|------------|
+| História    | Cadastrar Evento                    | ✅         |
+| História    | Procurar Evento na Home             | ✅         |
+| História    | Login                               | ✅         |
+| História    | Filtrar Evento da Secretaria Cultura| ✅         |
+| História    | Chat de Secretarias                 | ✅         |
+| História    | Cadastro de Usuários                | ✅         |
+| História    | Calendário de Eventos               | ✅         |
+| História    | Orçamento do Evento                 | ✅         |
+| História    | Mapa de Eventos                     | ✅         |
+| História    | Cadastrar Fornecedor                | ✅         |
+| Storyboard  | Cadastro e Login                    | ✅         |
+| Storyboard  | Cadastrar Evento                    | ✅         |
+| Storyboard  | Procurar Evento na Home             | ✅         |
+| Storyboard  | Calendário de Eventos               | ✅         |
+| Storyboard  | Mapa de Eventos                     | ✅         |
+
+---
+
+### 📊 Resumo de Progresso
+```mermaid
+pie title Distribuição por Tipo
+    "Histórias" : 10
+    "Storyboards" : 5
+![Backlog jiro](./assets/BACKLOG%20sprint%201%20.png)
 
 --- 
