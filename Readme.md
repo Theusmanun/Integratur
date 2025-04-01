@@ -40,6 +40,7 @@ O **IntegraTur** é um sistema que:
 
 ### 1. Etapa de chat de Secretarias  
 **Link:** https://integratur.atlassian.net/browse/INT-7?atlOrigin=eyJpIjoiNTc1ODRlYTEyOGM4NDZjNDg2MjE5YTJjM2ZhYWM4N2UiLCJwIjoiaiJ9
+
 **Descrição:**  
 “Como Diretora de Comunicação da Prefeitura, quero me conectar com as Secretarias via chat, para resolver questões dos eventos.”  
 
@@ -55,6 +56,7 @@ O **IntegraTur** é um sistema que:
 
 ### 2. Cadastrar Evento  
 **Link:** https://integratur.atlassian.net/browse/INT-3?atlOrigin=eyJpIjoiMTk5NWQzMWQ4MWZmNGI1MGE1MzBkZWRiZDA0MWZiZmIiLCJwIjoiaiJ9
+
 **Descrição:**  
 "Como gestor da Secretaria de Turismo, quero cadastrar eventos no calendário compartilhado para garantir que as atividades sejam planejadas sem conflitos e divulgadas adequadamente."  
 
@@ -76,6 +78,7 @@ O **IntegraTur** é um sistema que:
 
 ### 3. Procurar Evento
 **Link:** https://integratur.atlassian.net/browse/INT-4?atlOrigin=eyJpIjoiM2JjNzE0OTNmZWY5NGI1MjhhYjJjMDM4OGJkNWE4NzUiLCJwIjoiaiJ9
+
 **Descrição:**  
 "Como funcionário da Secretaria de Turismo ou Cultura, quero buscar eventos por palavras-chave, datas ou locais no feed da home para encontrar rapidamente informações relevantes para meu planejamento."  
 
@@ -94,6 +97,7 @@ O **IntegraTur** é um sistema que:
 
 ### 4. Cadastro de Fornecedores  
 **Link:** https://integratur.atlassian.net/browse/INT-10?atlOrigin=eyJpIjoiNTBjYWNkNDAwNzlkNGM3N2FlMzM3MjZlNDNlNTU3MWMiLCJwIjoiaiJ9
+
 **Descrição:**  
 "Como Secretário de Cultura, quero cadastrar fornecedores para facilitar a organização e logística dos eventos."  
 
@@ -110,6 +114,7 @@ O **IntegraTur** é um sistema que:
 
 ### 5. Login Institucional  
 **Link:** https://integratur.atlassian.net/browse/INT-1?atlOrigin=eyJpIjoiYWVhNTRlNWYxY2Q3NDhmZjgxZjNhMzZhODY3NWQ4MmQiLCJwIjoiaiJ9
+
 **Descrição:**  
 “Como funcionário da Secretaria de Turismo, quero fazer login no Integratur usando meu e-mail institucional para acessar ferramentas exclusivas de planejamento e evitar acesso não autorizado”.  
 
@@ -125,6 +130,7 @@ O **IntegraTur** é um sistema que:
 
 ### 6. Calendário de Eventos  
 **Link:** https://integratur.atlassian.net/browse/INT-5?atlOrigin=eyJpIjoiZmIzMmVhY2M3ZGNkNGJmOWE2ZDZhYjk3OGMxNzcxMGUiLCJwIjoiaiJ9
+
 **Descrição:**  
 "Como usuário, eu quero visualizar um calendário de eventos para acompanhar a programação de eventos de forma organizada."  
 
@@ -141,6 +147,7 @@ O **IntegraTur** é um sistema que:
 
 ### 7. Gestão de Orçamento  
 **Link:** https://integratur.atlassian.net/browse/INT-9?atlOrigin=eyJpIjoiZjU3MzhkZDVhMzFmNDBjNjlhNDliMTUxNmQ5MjY1ZmYiLCJwIjoiaiJ9
+
 **Descrição:**  
 "Como gestor da Secretaria de Turismo ou Cultura, quero cadastrar e monitorar o orçamento total do evento, para manter o controle financeiro."  
 
@@ -161,6 +168,7 @@ O **IntegraTur** é um sistema que:
 
 ### 8. Filtro por Secretaria  
 **Link:** https://integratur.atlassian.net/browse/INT-6?atlOrigin=eyJpIjoiNTVmYzY4MWY0MTkxNGZmZGFjNDI0MDE0ODcwMmU5NTkiLCJwIjoiaiJ9
+
 **Descrição:**  
 “Como Secretário Geral de Cultura, quero filtrar os eventos realizados pela Secretaria de Cultura dentro da IntegraTur.”  
 
@@ -176,6 +184,7 @@ O **IntegraTur** é um sistema que:
 
 ### 9. Cadastro de Usuários  
 **Link:** https://integratur.atlassian.net/browse/INT-2?atlOrigin=eyJpIjoiODMwNzRmYjRjOTNlNGQ1MThhZDUxM2FmOGYzNjExZDAiLCJwIjoiaiJ9
+
 **Descrição:**  
 “Como Coordenador de Projetos da Secretaria de Turismo, quero fazer o cadastro na plataforma IntegraTur, para que consiga utilizar de suas ferramentas.”  
 
@@ -192,6 +201,7 @@ O **IntegraTur** é um sistema que:
 
 ### 10. Mapa de Eventos  
 **Link:** https://integratur.atlassian.net/browse/INT-8?atlOrigin=eyJpIjoiOWIxNWNhM2RiMTRlNGYxZDhjYTU3NGY0NTNlN2M4NjYiLCJwIjoiaiJ9
+
 **Descrição:**  
 "Como secretário de Turismo, eu quero visualizar os eventos no mapa para monitorar a distribuição geográfica e identificar oportunidades de promoção turística."  
 
