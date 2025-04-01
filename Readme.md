@@ -197,6 +197,8 @@ O **IntegraTur** é um sistema que:
 
 ## 🎨 Storyboard - Cadastro de Evento
 
+**Link:** https://integratur.atlassian.net/browse/INT-13?atlOrigin=eyJpIjoiNjQxOTQxY2EwNzdjNGIwM2I5NDQ2ZWIyY2EzYTE2MjUiLCJwIjoiaiJ9
+
 ### **Tela 1: Formulário Base**
 ![Tela 1 - Estrutura Inicial](./assets/sb%20cadastrar%20novo%20evento/WhatsApp%20Image%202025-03-31%20at%2003.34.08.jpeg)  
 **Fluxo:**  
@@ -219,6 +221,8 @@ O **IntegraTur** é um sistema que:
 - Mensagem de sucesso: *"Evento Salvo Com Sucesso!"*.  
 
 ## 🔍 Storyboard - Pesquisa de Eventos na Home
+
+**Link:** https://integratur.atlassian.net/browse/INT-14?atlOrigin=eyJpIjoiYWIwMjI2NDE2MmJjNDMzZDhkZWM3OTE0OWZiNGZiNTMiLCJwIjoiaiJ9
 
 ### **Tela 1: Home**
 ![Tela 1 - Filtros e Listagem](./assets/sb%20pesquisa%20na%20home/pesquisa%20na%20home%201.jpeg)  
@@ -248,6 +252,8 @@ O **IntegraTur** é um sistema que:
 
 ## 📅 Storyboard - Calendário de Eventos
 
+**Link:** https://integratur.atlassian.net/browse/INT-15?atlOrigin=eyJpIjoiYTM3MjU1YTZjODk1NGFmM2IyNTY3ZmQ0MzY0MzkxZjkiLCJwIjoiaiJ9
+
 ### **Tela 1: Visão Mensal**
 ![Tela 1 - Visão do Mês](./assets/sb%20calendario%20de%20eventos/Calendario%201.jpeg)    
 **Menu de Filtros**:  
@@ -270,6 +276,8 @@ O **IntegraTur** é um sistema que:
   - Local: Centro de Convenções (endereço completo). 
 
 ## 🔐 Storyboard - Fluxo de Login e Cadastro
+
+**Link:** https://integratur.atlassian.net/browse/INT-11?atlOrigin=eyJpIjoiYWVmMmVhYjU3NzUzNDVlOThkZTRlYzg3YjQ2NWNmOTEiLCJwIjoiaiJ9
 
 ### **Tela 1: Página de Login**
 ![Tela 1 - Login](./assets/sb%20login_cadastro/login%201.png)  
@@ -314,6 +322,8 @@ O **IntegraTur** é um sistema que:
   - **"Fazer login"** (para usuários já cadastrados).  
 
 ## 🗺️ Storyboard - Fluxo do Mapa de Eventos
+
+**Link:** https://integratur.atlassian.net/browse/INT-12?atlOrigin=eyJpIjoiMTZlOWY0MzY5ZDlmNDQyOGI3NzY0MTQxN2NkYzFkYmMiLCJwIjoiaiJ9
 
 ### **1. Home** *(Home → Mapa)*  
 ![Home do Sistema](./assets/sb%20mapa/mapa%201.png) *(Imagem existente reutilizada)*  
