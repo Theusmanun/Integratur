@@ -45,6 +45,7 @@ O **IntegraTur** é um sistema que:
 “Como Diretora de Comunicação da Prefeitura, quero me conectar com as Secretarias via chat, para resolver questões dos eventos.”  
 
 **Conversa com o PO:**
+
 "Nessa história, o usuário deverá ter ferramentas para se comunicar via chat com os demais membros da secretaria podendo conversar tanto de forma privada com um determinado membro, quanto a criação de um grupo para adicionar membros que irão organizar o mesmo evento".
 
 **Critérios de aceitação (CDA):**  
@@ -64,6 +65,7 @@ O **IntegraTur** é um sistema que:
 "Como gestor da Secretaria de Turismo, quero cadastrar eventos no calendário compartilhado para garantir que as atividades sejam planejadas sem conflitos e divulgadas adequadamente."
 
 **Conversa com o PO:**
+
 "O usuário deve ser capaz de cadastrar eventos em um calendário compartilhado para facilitar a visualização e programar eventos de forma mais dinâmica através de uma única tela que mostra eventos sendo produzidos em um ou mais meses para cadastrar o evento o usuário deverá ser capaz de adicionar título no evento, data, atrações, programação, local, atualizar o calendário em tempo real com a criação de outros eventos, amostragem de recursos como fornecedores patrocinadores e equipamento na hora de cadastrar o evento, requisitos como alvarás e licenciamentos e mensagem de que o evento foi adicionado ao usuário terminar de cadastrar e clicar em adicionar".
 
 **Critérios de Aceitação (CDA):**  
@@ -89,6 +91,7 @@ O **IntegraTur** é um sistema que:
 "Como funcionário da Secretaria de Turismo ou Cultura, quero buscar eventos por palavras-chave ou pelo nome do mesmo para que eu tenha um acesso mais ágil ao card do evento através do feed". 
 
 **Conversa com o PO:**
+
 "O usuário, deverá ter ferramentas capazes de buscar eventos na home com base em palavras chaves inseridas por um usuário em uma box, como o  nome do evento e exibir mensagem caso nenhum evento seja encontrado com as palavras chaves citadas".
 
 **Critérios de Aceitação (CDA):**  
@@ -109,6 +112,7 @@ O **IntegraTur** é um sistema que:
 "Como Secretário de Cultura, quero cadastrar fornecedores para facilitar a organização e logística dos eventos."  
 
 **Conversa com o PO:**
+
 "Nessa historia, o usuário deverá ter ferramentas necessárias para cadastrar fornecedores e prestadores de diversos serviços como iluminação, estrutura, marketing e etc... deverá ter um campo para adicionar à empresa, com o nome da mesma, o tipo de serviço que presta e o histórico de eventos produzidos para as secretarias, essa empresa deverá ser cadastrada em um banco de dados para que possam ser usadas novamente na elaboração de outros eventos".
 
 **Critérios de Aceitação:**  
@@ -129,6 +133,7 @@ O **IntegraTur** é um sistema que:
 “Como funcionário da Secretaria de Turismo, quero fazer login no Integratur usando meu e-mail institucional para acessar ferramentas exclusivas de planejamento e evitar acesso não autorizado”. 
 
 **Conversa com o PO:**
+
 "O requisito principal para um usuário logar e usar o email institucional, essa funcionalidade garante que apenas usuários da secretaria entrem na plataforma. Cada usuário deverá ter sua senha própria e caso seja a sua primeira entrada o usuário deverá clicar na primeira vez para criar seu cadastro com email institucional e criar sua própria senha para a plataforma".
 
 **Critérios de aceitação:**  
@@ -148,6 +153,7 @@ O **IntegraTur** é um sistema que:
 "Como usuário, eu quero visualizar um calendário de eventos para acompanhar a programação de eventos de forma organizada."  
 
 **Conversa com o PO:**
+
 "O usuário deverá ser capaz de visualizar eventos que estão sendo produzidos no dia de determinado mês de forma organizada em formato de agenda, os eventos devem aparecer nos dias correspondentes da sua elaboração e mostrar o representante responsável, deve ser possível navegar entre os meses para ser possível ver eventos futuros, é possível navegar para ver eventos passados que já foram realizados com sucesso".
 
 **Critérios de Aceitação:**  
@@ -168,6 +174,7 @@ O **IntegraTur** é um sistema que:
 "Como gestor da Secretaria de Turismo ou Cultura, quero cadastrar e monitorar o orçamento total do evento, para manter o controle financeiro."  
 
 **Conversa com o PO:**
+
 "Neste campo, o usuário que preencherá durante a criação de um novo evento o orçamento total do evento, e conforme for preenchendo-o mostrar se está extrapolando ou não do valor estipulado, deverá haver um botão de adicionar despesas, barra de progresso caso esteja perto de passar do orçamento, permitir incluir ou excluir despesas, botão exportar para pdf com total gasto por categoria"
 
 **Critérios de Aceitação (CDA):**  
@@ -192,6 +199,7 @@ O **IntegraTur** é um sistema que:
 “Como Secretário Geral de Cultura, quero filtrar os eventos realizados pela Secretaria de Cultura dentro da IntegraTur.”  
 
 **Conversa com o PO:**
+
 "Nessa história o site deve fornecer ferramentas dentro da home para o usuário conseguir filtrar eventos diversos a partir dos filtros selecionados secretaria de turismo, secretaria da cultura ou ambas secretarias a partir de um botão no canto superior esquerdo da tela."
 
 **Critérios de aceitação (CDA):**  
@@ -211,6 +219,7 @@ O **IntegraTur** é um sistema que:
 “Como Coordenador de Projetos da Secretaria de Turismo, quero fazer o cadastro na plataforma IntegraTur, para que consiga utilizar de suas ferramentas.”  
 
 **Conversa com o PO:**
+
 "O usuário deverá ter ferramentas para cadastrar sua conta no primeiro contato com a plataforma, nesta tela deverá ter algumas boxs para o usuário inserir email, senha e confirmar senha, e a plataforma deve saber diferenciar quais e-mails são institucionais ou não, após o preenchimento das credenciais será enviado um código de confirmação para criação da conta e após colocar o código correto a senha deverá ser criada".
 
 **Critérios de aceitação (CDA):**  
@@ -231,6 +240,7 @@ O **IntegraTur** é um sistema que:
 "Como secretário de Turismo, eu quero visualizar os eventos no mapa para monitorar a distribuição geográfica e identificar oportunidades de promoção turística."  
 
 **Conversa com o PO:**
+
 "Nesta funcionalidade, o usuário será capaz de visualizar os eventos distribuídos em forma geográfica em um mapa, e o mapa deverá ter um pin vermelho mostrando onde tem certo evento".
 
 **Critérios de Aceitação:**  
